@@ -1,3 +1,6 @@
+## data
+*.csv
+
 ## ssm-data-pipeline ignores 
 supervisord*
 client_secret.json
